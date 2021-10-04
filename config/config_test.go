@@ -417,5 +417,6 @@ var devParsedConfig = &Config {
 		Approle_login:  "auth/approle/login",
 		Approle_id:     "goldfish",
 	},
-	DisableMlock: true,
+	DisableMlock: 
+		true,
 }
